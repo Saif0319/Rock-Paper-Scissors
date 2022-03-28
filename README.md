@@ -1,1 +1,1 @@
-Nothin but a simple RPS game
+Nothin but a simple RPS game with no UI lol
